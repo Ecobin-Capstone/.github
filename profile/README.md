@@ -1,4 +1,4 @@
-# EcoBin App 📱♻️
+# EcoBin App 📱♻️ 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ecobin-Capstone/.github/main/profile/EcoBin Cover.png">
@@ -32,9 +32,11 @@ EcoBin is a mobile app that helps manage household waste. It lets you sell your 
 | Audrey Carissa Ngantung     | C012BSX4380 | Cloud Computing     | Universitas Telkom                                   | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/APinguist)      | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/audrey-carissa-ngantung-2435a8118) | 
 | Lingga Dian Lestari         | A505BSX1958 | Android Development | Institut Sains dan Teknologi Terpadu Surabaya        | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lingga24)      | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linggadl) | 
 
-## Resource 🗃️
+## Resources 🗃️
 - Machine Learning Repository : [EcoBin-Machine-Learning](https://github.com/Ecobin-Capstone/ecobin-waste-classifier) | [EcoBin-Machine-Learning-Flask](https://github.com/Ecobin-Capstone/ecobin-model-api)
 - Cloud Computing Repository : [EcoBin-Cloud](https://github.com/Ecobin-Capstone/EcoBin-Backend)
 - Mobile Development Repository : [EcoBin-Android](https://github.com/Ecobin-Capstone/EcoBinMD)
 
+## Technology 👨‍💻
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 </details>
