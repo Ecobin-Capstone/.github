@@ -32,6 +32,9 @@ EcoBin is a mobile app that helps manage household waste. It lets you sell your 
 | Audrey Carissa Ngantung     | C012BSX4380 | Cloud Computing     | Universitas Telkom                                   | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/APinguist)      | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/audrey-carissa-ngantung-2435a8118) | 
 | Lingga Dian Lestari         | A505BSX1958 | Android Development | Institut Sains dan Teknologi Terpadu Surabaya        | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lingga24)      | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linggadl) | 
 
-## Resource 🧰
+## Resource 🗃️
+- Machine Learning Repository : [EcoBin-Machine-Learning](https://github.com/Ecobin-Capstone/ecobin-waste-classifier) | [EcoBin-Machine-Learning-Flask](https://github.com/Ecobin-Capstone/ecobin-model-api)
+- Cloud Computing Repository : [EcoBin-Cloud](https://github.com/Ecobin-Capstone/EcoBin-Backend)
+- Mobile Development Repository : [EcoBin-Android](https://github.com/Ecobin-Capstone/EcoBinMD)
 
 </details>
